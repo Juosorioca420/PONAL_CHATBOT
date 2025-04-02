@@ -1,0 +1,19 @@
+# col_name            	data_type           	comment             
+	 	 
+id_consecutivo      	decimal(38,0)       	                    
+id_delito           	decimal(38,0)       	                    
+delito              	string              	                    
+direccion           	string              	                    
+id_municipio        	decimal(38,0)       	                    
+municipio           	string              	                    
+fecha_hecho         	timestamp           	                    
+hora                	timestamp           	                    
+fecha_actualiza     	timestamp           	                    
+departamento        	string              	                    
+id_hecho            	decimal(38,0)       	                    
+longitud            	string              	                    
+id_departamento     	decimal(38,0)       	                    
+latitud             	string              	                    
+	 	 
+# Detailed Table Information	 	 
+Database:           	pon_prod_siedco_raw 	
